@@ -1,6 +1,7 @@
 package in.vinay;
 
 public class SumVargs {
+	
 	public static void main(String[] args) {
 		sum(10, 20);
 		sum(10, 20, 30);
